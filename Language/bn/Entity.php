@@ -15,5 +15,5 @@
 
 return
 [
-   'tryingToAccessNonExistentProperty' => 'Trying to access non existent property {0} of {1}',
+   'tryingToAccessNonExistentProperty' => '{0} এর {1} খোঁজার চেষ্টা করা হচ্ছে যার অস্তিত্ত্ব নেই',
 ];

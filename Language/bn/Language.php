@@ -15,5 +15,5 @@
  */
 
 return [
-   'languageGetLineInvalidArgumentException' => 'Get line must be a string or array of strings.',
+   'languageGetLineInvalidArgumentException' => 'Get line - অবশ্যই স্ট্রিং অথবা স্ট্রিং এর এ্যারে হবে।',
 ];

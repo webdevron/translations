@@ -15,8 +15,8 @@
  */
 
 return [
-   'invalidFile'      => 'Invalid file: {0}',
-   'copyError'        => 'An error was encountered while attempting to replace the file({0}). Please make sure your file directory is writable.',
-   'missingExtension' => '{0} extension is not loaded.',
-   'noHandlers'       => '{0} must provide at least one Handler.',
+   'invalidFile'      => 'অসমর্থিত ফাইল: {0}',
+   'copyError'        => 'ফাইল({0}) রিপ্লেস করার সময় ভুল হয়েছে। অনুগ্রহ করে পুনারায় পরিক্ষা করে দেখুন যে ফাইল ডিরেক্টরি রাইট করা সম্ভব কিনা।',
+   'missingExtension' => '{0} এক্সটেনশন লোড হয়নি।',
+   'noHandlers'       => '{0} কে অবশ্যই একটি হ্যন্ডেলার প্রদান করতে হবে।',
 ];

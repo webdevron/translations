@@ -15,6 +15,6 @@
  */
 
 return [
-   'invalidJSON'      => 'Failed to parse json string, error: "{0}".',
-   'missingExtension' => 'The SimpleXML extension is required to format XML.',
+   'invalidJSON'      => 'জেসন ডেটা প্রক্রিয়া করন সম্বব হয়নি, ভুল: "{0}"।',
+   'missingExtension' => 'এক্সএমএল (XML) ফাইলে ফরমেট করার জন্য SimpleXML এক্সটেনশন আবশ্যিক।',
 ];

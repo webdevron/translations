@@ -15,6 +15,6 @@
  */
 
 return [
-   'noFilter'           => '{0} filter must have a matching alias defined.',
-   'incorrectInterface' => '{0} must implement CodeIgniter\Filters\FilterInterface.',
+   'noFilter'           => '{0} ফিল্টারের অবশ্যই অন্য একটি নাম থাকতে হবে যা পূর্বে ঘোষিত ও প্রদত্ত নামে সাথে মিল আছে।',
+   'incorrectInterface' => '{0} কে অবশ্যই CodeIgniter\Filters\FilterInterface ইমপ্লিমেন্ট করতে হবে।'
 ];

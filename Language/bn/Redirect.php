@@ -15,5 +15,5 @@
  */
 
 return [
-   'forUnableToRedirect' => 'Unable to redirect to "{0}". Error status code "{1}"',
+   'forUnableToRedirect' => '"{0}" তে রিডিরেক্ট করা সম্বন নয়। এরোর স্ট্যাটস কোড "{1}"',
 ];

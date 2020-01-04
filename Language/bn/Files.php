@@ -14,6 +14,6 @@
  */
 
 return [
-   'fileNotFound' => 'File not found: {0}',
-   'cannotMove'   => 'Could not move file {0} to {1} ({2})',
+   'fileNotFound' => 'ফাইল পাওয়া যায়নি: {0}',
+   'cannotMove'   => '{0} থেকে {1} ({2}) তে ফাইল সরানো (মুভ) করা সম্ভব নয়।',
 ];

@@ -14,5 +14,5 @@
  */
 
 return [
-   'notImplemented' => '"{0}" action not implemented.',
+   'notImplemented' => '"{0}" বাস্তবায়ন করা সম্ভব নয়।',
 ];

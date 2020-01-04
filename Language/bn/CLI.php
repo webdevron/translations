@@ -15,10 +15,10 @@
  */
 
 return [
-   'commandNotFound' => 'Command "{0}" not found.',
-   'helpUsage'       => 'Usage:',
-   'helpDescription' => 'Description:',
-   'helpOptions'     => 'Options:',
-   'helpArguments'   => 'Arguments:',
-   'invalidColor'    => 'Invalid {0} color: {1}.',
+   'commandNotFound' => '"{0}" কমান্ড খুঁজে পাওয়া যায়নি।',
+   'helpUsage'       => 'ব্যাবহার হয়েছে:',
+   'helpDescription' => 'বর্ণনা:',
+   'helpOptions'     => 'বিকল্প সমূহ:',
+   'helpArguments'   => 'আর্গুমেন্ট সমূহ:',
+   'invalidColor'    => 'অসমর্থিত {0} রঙ: {1}.',
 ];

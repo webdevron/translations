@@ -16,12 +16,12 @@
 
 return [
    'pageNavigation'         => 'Page navigation',
-   'first'                  => 'First',
-   'previous'               => 'Previous',
-   'next'                   => 'Next',
-   'last'                   => 'Last',
-   'older'                  => 'Older',
-   'newer'                  => 'Newer',
-   'invalidTemplate'        => '{0} is not a valid Pager template.',
-   'invalidPaginationGroup' => '{0} is not a valid Pagination group.',
+   'first'                  => 'প্রথম',
+   'previous'               => 'পূর্বে',
+   'next'                   => 'পরবর্তী',
+   'last'                   => 'শেষ',
+   'older'                  => 'পুরাতন',
+   'newer'                  => 'নতুন',
+   'invalidTemplate'        => '{0} পেজার টেমপ্লেটটি সঠিক নয়।',
+   'invalidPaginationGroup' => '{0} পেজিনেশন গ্রুপটি সঠিক নয়।',
 ];
